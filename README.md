@@ -6,7 +6,7 @@ I work as an Engineering Manager at [Shortcut](https://shortcut.com).
 
 **🤓 Current passion projects:**
 
-- **Active:** A Clojure-like language called [PiLisp](https://github.com/pilisp/pilisp) implemented in [Dart](https://dart.dev).
+- **Active:** A Clojure-like language called [PiLisp](https://github.com/orgs/pilisp/repositories) implemented in [Dart](https://dart.dev).
 - **Tapering:** An interactive CLI for working in [Shortcut](https://shortcut.com) called [shortcut-repl](https://github.com/semperos/shortcut-repl)
 
 **💾 Technology I use (other than Clojure):**
@@ -22,6 +22,7 @@ I work as an Engineering Manager at [Shortcut](https://shortcut.com).
 - [Visual Studio Code](https://code.visualstudio.com/) for most non-Clojure development
 - macOS at work
    - [Rectangle](https://rectangleapp.com/) to move and resize windows
+   - [Maccy](https://maccy.app/) for clipboard management
 - [Ubuntu](https://ubuntu.com/) Linux at home
 
 **📫 How to reach me:**
