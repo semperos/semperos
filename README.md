@@ -6,12 +6,39 @@ I work as an Engineering Manager at [Shortcut](https://shortcut.com).
 
 **🤓 Current passion projects:**
 
-- **Active:** Creating interactive, visual tools to solve business problems with [Glamorous Toolkit](https://gtoolkit.com/)
-- **Tapering:** A Clojure-like language called [PiLisp](https://github.com/orgs/pilisp/repositories) implemented in [Dart](https://dart.dev).
-- **Tapered:** An interactive CLI for working in [Shortcut](https://shortcut.com) called [shortcut-repl](https://github.com/semperos/shortcut-repl)
+- **Active:** Creating interactive, visual tools to solve business problems with 
+- **Tapered:** An interactive CLI for working in [Shortcut]() called 
 
-**💾 Technology I use (other than Clojure):**
+**💻 My Open Source Work**
 
+Some here on GitHub, some on Gitlab, sorted by some notion of relevancy:
+
+* [PiLisp](https://github.com/orgs/pilisp/pilisp-monorepo): PiLisp—An interpreted Lisp inspired by Clojure, implemented in [Dart](https://dart.dev)
+* [Metazoa](https://gitlab.com/glossa/metazoa): Tools for viewing, testing, searching, and querying Clojure metadata
+* [shortcut-repl](https://github.com/semperos/shortcut-repl): A REPL & CLI for [Shortcut](https://shortcut.com)
+* [cci](https://github.com/semperos/cci): Minimal CircleCI API CLI Client (compiles to native via GraalVM's native-image)
+* [clj-webdriver](https://github.com/semperos/clj-webdriver): (Unmaintained) Clojure API for Selenium-WebDriver
+
+Tiny utilities:
+
+* [csver](https://github.com/semperos/csver): Convert JSON array over STDIN to CSV over STDOUT
+* [xmler](): Small CLI utility to report on stats for XML sitemaps
+* [last-stacktrace](https://gitlab.com/semperos/last-stacktrace): Utility to print stacktraces from JSONL logs
+
+Learning, experiments, and toys:
+
+* [Gershwin](https://github.com/gershwin/gershwin): Stack-based, concatenative programming language with a Clojure runtime that targets the JVM
+* [rankle](https://github.com/semperos/rankle): Experiments with data rank and tables in Clojure, inspired by J and Q
+* [kintampo](https://github.com/semperos/kintampo): Hierarchical data processing via file system + ZeroMQ
+* [river-crossing-spec](https://github.com/semperos/river-crossing-spec): TLA Specification for the ["Wolf, goat, and cabbage" puzzle](https://en.wikipedia.org/wiki/Wolf,_goat_and_cabbage_problem)
+* [AsIf](https://gitlab.com/semperos/asif): Language implemented as a Clojure transducer
+* [Shackle](https://gitlab.com/semperos/shackle): Stack-based language, implemented in the web browser
+* [webdriver-logic](https://github.com/semperos/webdriver-logic): Logic programming API for testing web applications using clj-webdriver
+
+**💾 Technology I Use**
+
+- [Glamorous Toolkit](https://gtoolkit.com/) built on [Pharo Smalltalk](https://pharo.org/) for moldable development, and my daily driver as of 2023
+- [Clojure](https://clojure.org) for most of the professional code I've written
 - [LaTeX](https://www.latex-project.org/) for authoring documents of all kinds
 - [Ruby](https://www.ruby-lang.org/en/) for writing scripts that I can share with folks that might find Clojure unapproachable
 - [J](https://code.jsoftware.com/wiki/Guides/GettingStarted) for data analysis and solving Advent of Code
