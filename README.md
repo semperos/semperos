@@ -4,11 +4,6 @@ I work as an Engineering Manager at [Shortcut](https://shortcut.com).
 
 [Clojure](https://clojure.org) is my primary programming language, been using it since 2010 and making a living with it since 2013.
 
-**🤓 Current passion projects:**
-
-- **Active:** Creating interactive, visual tools to solve business problems with 
-- **Tapered:** An interactive CLI for working in [Shortcut]() called 
-
 **💻 My Open Source Work**
 
 Some here on GitHub, some on Gitlab, sorted by some notion of relevancy:
