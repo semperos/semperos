@@ -8,7 +8,7 @@ I work as an Engineering Manager at [Shortcut](https://shortcut.com).
 
 Some here on GitHub, some on Gitlab, sorted by some notion of relevancy:
 
-* [PiLisp](https://github.com/orgs/pilisp/pilisp-monorepo): PiLisp—An interpreted Lisp inspired by Clojure, implemented in [Dart](https://dart.dev)
+* [PiLisp](https://github.com/orgs/pilisp/pilisp-monorepo): An interpreted Lisp inspired by Clojure, implemented in [Dart](https://dart.dev)
 * [Metazoa](https://gitlab.com/glossa/metazoa): Tools for viewing, testing, searching, and querying Clojure metadata
 * [shortcut-repl](https://github.com/semperos/shortcut-repl): A REPL & CLI for [Shortcut](https://shortcut.com)
 * [cci](https://github.com/semperos/cci): Minimal CircleCI API CLI Client (compiles to native via GraalVM's native-image)
