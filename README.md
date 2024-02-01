@@ -6,50 +6,52 @@ I work as an Engineering Manager at [Shortcut](https://shortcut.com).
 
 **💻 My Open Source Work**
 
-Some here on GitHub, some on Gitlab, sorted by some notion of relevancy:
+Some here on GitHub, some on Gitlab, sorted by some notion of relevancy and recency:
 
 * [PiLisp](https://github.com/orgs/pilisp/pilisp-monorepo): An interpreted Lisp inspired by Clojure, implemented in [Dart](https://dart.dev)
 * [Metazoa](https://gitlab.com/glossa/metazoa): Tools for viewing, testing, searching, and querying Clojure metadata
-* [shortcut-repl](https://github.com/semperos/shortcut-repl): A REPL & CLI for [Shortcut](https://shortcut.com)
-* [cci](https://github.com/semperos/cci): Minimal CircleCI API CLI Client (compiles to native via GraalVM's native-image)
+* [shortcut-repl](https://github.com/semperos/shortcut-repl): A REPL & CLI for [Shortcut](https://shortcut.com) (Dart)
+* [cci](https://github.com/semperos/cci): Minimal CircleCI API CLI Client (Clojure via GraalVM native image)
 * [clj-webdriver](https://github.com/semperos/clj-webdriver): (Unmaintained) Clojure API for Selenium-WebDriver
 
 Tiny utilities:
 
-* [csver](https://github.com/semperos/csver): Convert JSON array over STDIN to CSV over STDOUT
-* [xmler](): Small CLI utility to report on stats for XML sitemaps
-* [last-stacktrace](https://gitlab.com/semperos/last-stacktrace): Utility to print stacktraces from JSONL logs
+* [csver](https://github.com/semperos/csver): Convert JSON array over STDIN to CSV over STDOUT (Rust)
+* [xmler](https://github.com/semperos/xmler): Small CLI utility to report on stats for XML sitemaps (Rust)
+* [last-stacktrace](https://gitlab.com/semperos/last-stacktrace): Utility to print stacktraces from JSONL logs (Rust)
 
 Learning, experiments, and toys:
 
 * [Gershwin](https://github.com/gershwin/gershwin): Stack-based, concatenative programming language with a Clojure runtime that targets the JVM
 * [rankle](https://github.com/semperos/rankle): Experiments with data rank and tables in Clojure, inspired by J and Q
 * [kintampo](https://github.com/semperos/kintampo): Hierarchical data processing via file system + ZeroMQ
-* [river-crossing-spec](https://github.com/semperos/river-crossing-spec): TLA Specification for the ["Wolf, goat, and cabbage" puzzle](https://en.wikipedia.org/wiki/Wolf,_goat_and_cabbage_problem)
+* [river-crossing-spec](https://github.com/semperos/river-crossing-spec): TLA+ Specification for the ["Wolf, goat, and cabbage" puzzle](https://en.wikipedia.org/wiki/Wolf,_goat_and_cabbage_problem)
 * [AsIf](https://gitlab.com/semperos/asif): Language implemented as a Clojure transducer
 * [Shackle](https://gitlab.com/semperos/shackle): Stack-based language, implemented in the web browser
 * [webdriver-logic](https://github.com/semperos/webdriver-logic): Logic programming API for testing web applications using clj-webdriver
 
 **💾 Technology I Use**
 
-- [Glamorous Toolkit](https://gtoolkit.com/) built on [Pharo Smalltalk](https://pharo.org/) for moldable development, and my daily driver as of 2023
+- [Glamorous Toolkit](https://gtoolkit.com/) built on [Pharo Smalltalk](https://pharo.org/) for moldable development
 - [Clojure](https://clojure.org) for most of the professional code I've written
+- [Julia](https://julialang.org/) and [J](https://code.jsoftware.com/wiki/Guides/GettingStarted) for data analysis
 - [LaTeX](https://www.latex-project.org/) for authoring documents of all kinds
 - [Ruby](https://www.ruby-lang.org/en/) for writing scripts that I can share with folks that might find Clojure unapproachable
-- [J](https://code.jsoftware.com/wiki/Guides/GettingStarted) for data analysis and solving Advent of Code
 - [sops](https://fishshell.com/) for managing secrets locally
 - [fish](https://fishshell.com/) as my primary shell
-- [Alacritty](https://alacritty.org/) as my terminal emulator
+- [WezTerm](https://wezfurlong.org/wezterm/index.html) and [Alacritty](https://alacritty.org/) as terminal emulators
 - [tmux](https://github.com/tmux/tmux/wiki) for multiplexing
-- [Emacs](https://www.gnu.org/software/emacs/), traditional bindings for Lisp-adjacent work, [Vim](https://www.vim.org/) bindings via [`evil-mode`](https://github.com/emacs-evil/evil) for everything else
+- [Emacs](https://www.gnu.org/software/emacs/), traditional bindings for Lisp-adjacent work, Vim bindings via [`evil-mode`](https://github.com/emacs-evil/evil) for everything else
+- [NeoVim] for text editing at the terminal
 - [Visual Studio Code](https://code.visualstudio.com/) for most non-Clojure development
 - macOS at work
    - [Rectangle](https://rectangleapp.com/) to move and resize windows
    - [Maccy](https://maccy.app/) for clipboard management
-- [Ubuntu](https://ubuntu.com/) Linux at home
+- [Ubuntu](https://ubuntu.com/) for Linux at home
 
 **📫 How to reach me:**
 
+- [Personal Website](https://danielgregoire.dev)
 - [Mastodon](https://fosstodon.org/@semperos)
 - [LinkedIn](https://www.linkedin.com/in/danielgregoire/)
 
