@@ -42,7 +42,7 @@ Learning, experiments, and toys:
 - [WezTerm](https://wezfurlong.org/wezterm/index.html) and [Alacritty](https://alacritty.org/) as terminal emulators
 - [tmux](https://github.com/tmux/tmux/wiki) for multiplexing
 - [Emacs](https://www.gnu.org/software/emacs/), traditional bindings for Lisp-adjacent work, Vim bindings via [`evil-mode`](https://github.com/emacs-evil/evil) for everything else
-- [NeoVim] for text editing at the terminal
+- [NeoVim](https://neovim.io/) for text editing at the terminal
 - [Visual Studio Code](https://code.visualstudio.com/) for most non-Clojure development
 - macOS at work
    - [Rectangle](https://rectangleapp.com/) to move and resize windows
