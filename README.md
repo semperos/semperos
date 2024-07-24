@@ -6,8 +6,7 @@ I work as an Engineering Manager at [Shortcut](https://shortcut.com).
 
 **💻 My Open Source Work**
 
-Some here on GitHub, some on Gitlab, sorted by some notion of relevancy and recency:
-
+* [Ari](https://github.com/semperos/ari): Array Relational Interactive Programming
 * [PiLisp](https://github.com/orgs/pilisp/pilisp-monorepo): An interpreted Lisp inspired by Clojure, implemented in [Dart](https://dart.dev)
 * [Metazoa](https://gitlab.com/glossa/metazoa): Tools for viewing, testing, searching, and querying Clojure metadata
 * [shortcut-repl](https://github.com/semperos/shortcut-repl): A REPL & CLI for [Shortcut](https://shortcut.com) (Dart)
@@ -32,9 +31,10 @@ Learning, experiments, and toys:
 
 **💾 Technology I Use**
 
-- [Glamorous Toolkit](https://gtoolkit.com/) built on [Pharo Smalltalk](https://pharo.org/) for moldable development
 - [Clojure](https://clojure.org) for most of the professional code I've written
+- [Goal](https://codeberg.org/anaseto/goal) for day-to-day data analysis, HTTP API interaction, and scripting
 - [Julia](https://julialang.org/) and [J](https://code.jsoftware.com/wiki/Guides/GettingStarted) for data analysis
+- [Glamorous Toolkit](https://gtoolkit.com/) built on [Pharo Smalltalk](https://pharo.org/) for moldable development
 - [LaTeX](https://www.latex-project.org/) for authoring documents of all kinds
 - [Ruby](https://www.ruby-lang.org/en/) for writing scripts that I can share with folks that might find Clojure unapproachable
 - [sops](https://fishshell.com/) for managing secrets locally
