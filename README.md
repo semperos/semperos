@@ -1,6 +1,6 @@
 ### I'm Daniel (semperos) 👋
 
-I work as an Engineering Manager at [Shortcut](https://shortcut.com).
+I work as the Head of Engineering at [Shortcut](https://shortcut.com).
 
 [Clojure](https://clojure.org) is my primary programming language, been using it since 2010 and making a living with it since 2013.
 
