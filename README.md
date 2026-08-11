@@ -2,13 +2,11 @@
 
 I work as the Head of Engineering at [Shortcut](https://shortcut.com).
 
-[Clojure](https://clojure.org) is my primary programming language, been using it since 2010 and making a living with it since 2013.
-
 **💻 My Open Source Work**
 
-* [Ari](https://github.com/semperos/ari): Array Relational Interactive Programming
-* [Metazoa](https://gitlab.com/glossa/metazoa): Tools for viewing, testing, searching, and querying Clojure metadata
-* [shortcut-repl](https://github.com/semperos/shortcut-repl): A REPL & CLI for [Shortcut](https://shortcut.com) (Dart)
+* [Ari](https://github.com/semperos/ari): Array Relational Interactive Programming (an extension to the [Goal](https://codeberg.org/anaseto/goal) programming language)
+* [Metazoa](https://gitlab.com/glossa/metazoa): (Unmaintained) Tools for viewing, testing, searching, and querying Clojure metadata
+* [shortcut-repl](https://github.com/semperos/shortcut-repl): (Unmaintained) A REPL & CLI for [Shortcut](https://shortcut.com) (Dart)
 * [clj-webdriver](https://github.com/semperos/clj-webdriver): (Unmaintained) Clojure API for Selenium-WebDriver
 
 Learning, experiments, and toys:
